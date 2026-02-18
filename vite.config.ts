@@ -14,5 +14,5 @@ export default defineConfig({
       },
     },
   },
-  base: "/FrontHack/",
+  base: "/Frontend/",
 });
